@@ -1,1 +1,5 @@
 # Capstone-Project-Notebook
+#prints the statement
+import pandas as pd
+import numpy as np
+print("Hello Capstone Project Course!")
